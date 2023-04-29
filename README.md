@@ -1,6 +1,6 @@
 # SeelaYogitha_BED_LabRestAPI
 
-##Output
+## Output
 
 ###Login Page
 ![image](https://user-images.githubusercontent.com/78747526/235308343-1bcceef0-c91d-42af-bb14-bebd9454acbf.png)
