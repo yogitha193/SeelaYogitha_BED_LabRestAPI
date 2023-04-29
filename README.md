@@ -2,13 +2,15 @@
 
 ## Output
 
-###Login Page
+### Login Page
 ![image](https://user-images.githubusercontent.com/78747526/235308343-1bcceef0-c91d-42af-bb14-bebd9454acbf.png)
 
-###Bad Credentials
+### Bad Credentials
+![image](https://user-images.githubusercontent.com/78747526/235308853-00ec2b9e-8794-426d-9c22-5a12398acaa6.png)
+![image](https://user-images.githubusercontent.com/78747526/235308863-4ece7f74-4748-4430-b26f-bc403b9667e4.png)
 
 
-###ADMIN
+### ADMIN
 ![image](https://user-images.githubusercontent.com/78747526/235308372-fa498643-e1c0-4a32-8174-2a01b681eb99.png)
 
 ![image](https://user-images.githubusercontent.com/78747526/235308405-0933fbe4-4689-4ce0-b7c2-e09577ea0cbf.png)
@@ -19,22 +21,21 @@
 
 ![image](https://user-images.githubusercontent.com/78747526/235308503-4b029ad1-5564-4210-9302-88773db9a14c.png)
 
-*update
+#### update
 ![image](https://user-images.githubusercontent.com/78747526/235308527-8e07a57b-43e6-4dbd-9b93-e2c97bbe6795.png)
 
-*after updating
+#### after updating
 ![image](https://user-images.githubusercontent.com/78747526/235308545-e0dc04fc-0119-4a8d-97da-c09b0805a1cd.png)
 
-*deletion
+#### deletion
 ![image](https://user-images.githubusercontent.com/78747526/235308557-31de6e6b-e324-4188-be3b-81feefc31178.png)
 
-
-*after deletion
+#### after deletion
 ![image](https://user-images.githubusercontent.com/78747526/235308574-a4bc0f93-8442-4adf-a2b6-54a683a4d1bb.png)
 
 
 
-##USER
+## USER
 
 ![image](https://user-images.githubusercontent.com/78747526/235308631-224fab5a-53ac-4e5e-85c5-86d77d0ea7f5.png)
 
